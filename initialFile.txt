@@ -1,1 +1,2 @@
 Adding a new first line from remote
+Adding a second line
